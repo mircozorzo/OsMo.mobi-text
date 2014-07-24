@@ -1,7 +1,7 @@
 <resources language="it">
   <group>Gruppo</group>
-  <group_description>Puoi vedere tutti i partecipanti al gruppo come loro posso vedere voi, se abilitate l'opzione 'Invia le mie posizioni'.<br />
-  Potete pianificare i viaggi, i punti del percorso e le tracce, potete avere la navigazione del vivo su più dispositivi<group_description>
+  <group_description>Se è abilitata l'opzione 'Invia le mie posizioni' puoi vedere tutti i partecipanti al gruppo come loro posso vederti<br />
+  Puoi pianificare i viaggi, i punti del percorso e le tracce, puoi avere la navigazione del vivo su più dispositivi<group_description>
   <with_osmodroid>Monitora attraverso Osmodroid</with_osmodroid>
   <with_osmodroid_description>Il nostro client ufficiale dà le maggiori possibilità di funzionare con il servizio</with_osmodroid_description>
   <with_osmand>Usa OsmAnd</with_osmand>
